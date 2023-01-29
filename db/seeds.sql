@@ -19,7 +19,7 @@ VALUES
     ('Moana', 'White', 3, 1), 
     ('Zach', 'Nicholls', 3, 1), 
     ('Jason', 'Williams', 3, 1),
-    ('Jessica', 'Davis', 4, 2),
-    ('Aaron', 'Brown', 4, 2),
-    ('Heidi', 'Johnson', 4, 2);
+    ('Jessica', 'Davis', 4, 2)
+   
+    
 

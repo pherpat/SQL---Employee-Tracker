@@ -1,7 +1,8 @@
 -- Add your code below and execute file in MySQL Shell --
+CREATE TABLE employee_info (
+);
 
-    -- Join tables----
-CREATE TABLE employee_info AS
+INSERT INTO employee_info
 SELECT
   e.id,
   e.first_name,
@@ -14,4 +15,5 @@ FROM employee e
 JOIN role r ON e.role_id = r.id
 JOIN department d ON r.department_id = d.id
 LEFT JOIN employee m ON e.manager_id = m.id;
+
 
