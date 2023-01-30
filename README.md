@@ -1,25 +1,36 @@
-# AS A business owner
+# EEmployee Tracker App
 
-I WANT to be able to view and manage the departments, roles, and employees in my company
-SO THAT I can organize and plan my business
+## Description
 
-## GIVEN a command-line application that accepts user input
+  The purpose of this assigment was to build a command-line application from scratch to manage a company's employee database, using Node.js, Inquirer, and MySQL.
 
-WHEN I start the application
-THEN I am presented with the following options: view all departments, view all roles, view all employees, add a department, add a role, add an employee, and update an employee role
-WHEN I choose to view all departments
-THEN I am presented with a formatted table showing department names and department ids
-WHEN I choose to view all roles
-THEN I am presented with the job title, role id, the department that role belongs to, and the salary for that role
-WHEN I choose to view all employees
-THEN I am presented with a formatted table showing employee data, including employee ids, first names, last names, job titles, departments, salaries, and managers that the employees report to
-WHEN I choose to add a department
-THEN I am prompted to enter the name of the department and that department is added to the database
-WHEN I choose to add a role
-THEN I am prompted to enter the name, salary, and department for the role and that role is added to the database
-WHEN I choose to add an employee
-THEN I am prompted to enter the employee’s first name, last name, role, and manager, and that employee is added to the database
-WHEN I choose to update an employee role
-THEN I am prompted to select an employee to update and their new role and this information is updated in the database
-Mock-Up
+ ## Table of Contents
 
+ - [License](#license)
+ - [Usage](#usage)
+ - [Features](#features)
+ - [Questions](#questions)
+
+## Usage
+
+You can see a screenshot here: [Screenshot]()
+View the video walkthrough: [Video](https://drive.google.com/file/d/1cyv-6NApDZQhWBJaJRtSpAP2W5NikGtW/view)
+
+
+## License
+
+ [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/) 
+
+
+## Questions
+ Please email me, if you have any questions
+patinopher@gmail.com, or visit my GitHub account at
+[pherpat](https://github.com/pherpat)
+
+## Features
+
+ Description, Table of Contents, Usage, License, Contributors, Questions, Features.
+
+## How to Contribute
+
+ This is an open source, you can create a branch and send me a pull request.
