@@ -1,4 +1,4 @@
-# EEmployee Tracker App
+# Employee Tracker App
 
 ## Description
 
@@ -13,7 +13,7 @@
 
 ## Usage
 
-You can see a screenshot here: [Screenshot]()
+You can see a screenshot here: [Screenshot](https://github.com/pherpat/SQL-Employee-Tracker/blob/main/assets/EmployeeTracker-screenshot.png)
 View the video walkthrough: [Video](https://drive.google.com/file/d/1cyv-6NApDZQhWBJaJRtSpAP2W5NikGtW/view)
 
 
